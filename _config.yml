@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
+title                    : 
+title_separator          :
+name                     : "Mike Maxwell"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -65,22 +65,22 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mike Maxwell"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "San Luis Obispo, CA"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : misterwell
   foursquare       :
-  github           :
+  github           : misterwell
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : misterwell
   lastfm           :
   linkedin         :
   pinterest        :
@@ -88,7 +88,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : themisterwell
   vine             :
   weibo            :
   xing             :
