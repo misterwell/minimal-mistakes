@@ -75,12 +75,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : misterwell
+  facebook         : "misterwell"
   foursquare       :
-  github           : misterwell
+  github           : "misterwell"
   google_plus      :
   keybase          :
-  instagram        : misterwell
+  instagram        : "misterwell"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -88,7 +88,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : themisterwell
+  twitter          : "themisterwell"
   vine             :
   weibo            :
   xing             :
